@@ -4,16 +4,16 @@ Para poder usar el programa lea las siguientes instrucciones:
 >[!Note]
 > Usaremos bash y el cmd
 
->[!Warning]
+>[!Important]
 > Posicionarse en desktop antes de clonar
 
-1. 
+1. Abrir el bash, copiar y pegar la url del repositorio en la terminal.
 
 ```bash
 git clone [paste_url]
 ```
 
-2. 
+2. Abrir el cmd.
 ```powershell
 cd desktop
 dir
