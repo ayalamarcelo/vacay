@@ -1,7 +1,7 @@
 # Bienvenido al Sistema vacacional de empleados
 Para poder usar el programa lea las siguientes instrucciones:
 
->[!Nota]
+>[!Note]
 > Usaremos bash y el cmd
 
 >[!Warning]
