@@ -1,28 +1,31 @@
-# Bienvenido al Sistema vacacional de empleados
-Para poder usar el programa lea las siguientes instrucciones:
+# Welcome to the Employee Vacation System
+
+* To use the program, please follow the instructions below:
 
 >[!Note]
-> Usaremos bash y el cmd
+> We will be using bash and cmd.
 
 >[!Important]
-> Posicionarse en desktop antes de clonar
+>Make sure to navigate to the desktop before cloning.
 
-1. Abrir el bash, copiar y pegar la url del repositorio en la terminal.
+1. Open bash, copy and paste the repository URL into the terminal.
 
 ```bash
 git clone [paste_url]
 ```
 
-2. Abrir el cmd.
+2. Open cmd.
+
 ```powershell
+
 cd desktop
 dir
 cd [folder_name_app]
-javac Sistema.java
-java Sistema
+javac ConsultSystem.java
+java ConsultSystem
 ```
 
-## Desde la terminal de VSC
+3. From the VS Code terminal
 
 ```
 run code
