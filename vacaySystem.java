@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class ConsultSystem {
+public class vacaySystem {
     public static final int CODE_COMMERCE = 1;
     public static final int CODE_GASTRONOMY = 2;
     public static final int CODE_BANKING = 3;

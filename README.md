@@ -1,6 +1,6 @@
 <h1 align="center">Employee Vacation System</h1>
 
-`ConsultSystem` is a simple vacation system for employees. It calculates the number of vacation days based on the employee's years of service and category code. The program supports three categories: Commerce (Code 1), Gastronomy (Code 2), and Banking (Code 3).
+`vacaySystem` is a simple vacation system for employees. It calculates the number of vacation days based on the employee's years of service and category code. The program supports three categories: Commerce (Code 1), Gastronomy (Code 2), and Banking (Code 3).
 
 <p align="left">Table of Contents:</p>
 
