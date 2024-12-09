@@ -55,4 +55,4 @@ Vacation days: 14
     If an invalid input is detected, an error message is displayed, and the user is prompted to enter valid values.
 
 >[!Note]
-> Optionally, you can make another inquiry. Enter "Yes" to continue or "No" to exit the program.
+> Optionally, you can make another inquiry. Enter ["Yes"] to continue or ["No"] to exit the program.
